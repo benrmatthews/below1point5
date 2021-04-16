@@ -7,6 +7,8 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Below 1.5
+# Explaining below 1.5C in below 1.5 minute
 
-Explaining below 1.5C in below 1.5 minutes.
+Climate change is real, but hard to understand for many people.
+
+There are many challenges that we face in the climate crisis, but many climate solutions exist to help.
